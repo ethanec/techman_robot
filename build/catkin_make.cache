@@ -1,0 +1,2 @@
+techman_robot/techman_robot:techman_robot/tm700_moveit_config:techman_robot/tm900_moveit_config:techman_robot/tm_description:techman_robot/tm_driver:techman_robot/tm_gazebo:techman_robot/tm_kinematics:techman_robot/tm_msgs
+-DCATKIN_DEVEL_PREFIX=/home/yc/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yc/catkin_ws/install -G Unix Makefiles
